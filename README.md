@@ -1,4 +1,4 @@
-<img width="1421" height="280" alt="Screenshot 2026-11-06 102026" src="https://github.com/user-attachments/assets/90d1dcdb-e3c0-433d-ac12-2f57a94bce5d" /># รายงานผลการทดลอง: Network Programming Lab 1
+รายงานผลการทดลอง: Network Programming Lab 1
 
 ### ข้อมูลผู้จัดทำ
 - **ชื่อ-นามสกุล:** (ณรงค์ฤทธิ์ เมธาวรากุล)
